@@ -6,6 +6,7 @@
 
    This example showing a complete Door Access Control System
 
+  Simple Work Flow (not limited to) :
                                      +---------+
   +----------------------------------->READ TAGS+^------------------------------------------+
   |                              +--------------------+                                     |
