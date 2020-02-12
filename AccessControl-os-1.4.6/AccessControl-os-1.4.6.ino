@@ -193,6 +193,9 @@ void setup() {
     masterCard[i] = EEPROM.read(2 + i);    // Write it to masterCard
     Serial.print(masterCard[i], HEX);
   }
+
+
+  
   Serial.println("");
   Serial.println(F("-------------------"));
   Serial.println(F("Everything is ready"));
